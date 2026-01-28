@@ -1,1 +1,23 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV | Lúcia Catani</title>
+    <style>
+        /* Remove margens e deixa tela cheia */
+        body, html { margin: 0; padding: 0; height: 100%; overflow: hidden; background: #1a1a1a; }
+        
+        /* Centraliza o iframe */
+        iframe { width: 100%; height: 100%; border: none; display: block; }
+    </style>
+</head>
+<body>
 
+    <iframe 
+        src="https://www.figma.com/embed?embed_host=share&url=https://www.figma.com/make/q7P88hhrGT5jujLSQgnP6l/CV-Builder?t=UgNeZrb4e4m2rFzs-1" 
+        allowfullscreen>
+    </iframe>
+
+</body>
+</html>
