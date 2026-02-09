@@ -1,2 +1,2 @@
-# lucia.cat
+# luci.cat
 I built a website here, with many letters, bits and bobs.
